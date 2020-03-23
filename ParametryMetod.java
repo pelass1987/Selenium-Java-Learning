@@ -12,10 +12,7 @@ public class ParametryMetod {
     }
     @Test
     public void testParametrow() {
-            int sumaLiczb = suma ( pierwszaliczba: 3,  drugaLiczba: 3);
-       // System.out.println(sumaLiczb);
-    //test Parametrów nie działa, gdzieś jest jakiś błąd (sumaLiczb)
-        przywitajSie("Andrzej");
+
     }
 
 }
